@@ -43,4 +43,4 @@ Enterprise B2B system for income and expense tracking with dynamic dashboards an
 
 ## Contact
 
-**LinkedIn**: [www.linkedin.com/in/wenlong-tang-544011338/i]()
+**LinkedIn**: [www.linkedin.com/in/wenlong-tang-544011338]()
