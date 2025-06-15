@@ -1,62 +1,46 @@
-# Hi there, I'm Wenlong 👋
+# Wenlong Tang
 
-🎓 MSc Computer Science (AI) @ University of Nottingham  
-💻 Backend Engineer with 3+ years experience in scalable systems  
-🌍 Passionate about intelligent architecture, AI integration, and clean code  
-🇬🇧 Currently based in the UK and open to software opportunities
+MSc Computer Science (Artificial Intelligence) at the University of Nottingham  
+Backend-focused software engineer with over 3 years of experience in high-concurrency systems, enterprise SaaS, and AI-powered applications.  
+Passionate about scalable system design, intelligent architectures, and clean, maintainable code.  
+Currently based in the UK and open to backend or AI-related roles.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-**Backend**: Java (Spring Boot, Spring Cloud), Python, RESTful APIs  
-**DevOps**: Docker, Jenkins, Redis, RabbitMQ, Nginx  
+**Languages & Frameworks**: Java (Spring Boot, Spring Cloud), Python, RESTful APIs  
 **Databases**: MySQL, Redis, Elasticsearch  
-**Frontend**: Vue.js, HTML/CSS/JavaScript  
-**AI & ML**: Scikit-learn, NumPy, GPT-based agents, Q-learning  
-**Other**: Git, Linux, CI/CD, System Design
+**DevOps**: Docker, Jenkins, RabbitMQ, Nginx, Git, CI/CD  
+**Frontend**: Vue.js, HTML, JavaScript  
+**AI & Machine Learning**: Scikit-learn, NumPy, GPT-based agents, Q-learning  
+**Other**: Linux, System Design, Distributed Architecture
 
 ---
 
-## 🧠 Featured Projects
+## Selected Projects
 
-### 🧩 Brain-Inspired Multi-Agent System  
-Cognitive system built with GPT agents, emotion/rational controllers, trust adaptation, and meta-control coordination  
-> `Python`, `LLMs`, `Reinforcement Learning`, `Flask`, `Visualization`
+### Brain-Inspired Multi-Agent System  
+A cognitive architecture using five GPT-based agents (emotion, rationality, habit, etc.) with reinforcement learning goals and a central meta-controller for decision-making. Includes memory reflection, agent trust scoring, and adaptive learning.
 
-### 🏠 WeChat Real Estate Mini Program  
-High-concurrency property sales system with microservices, rate limiting, caching, async messaging  
-> `Spring Cloud`, `Redis`, `RabbitMQ`, `Vue`, `Docker`, `Nginx`
-
-### 📊 DingTalk SaaS for Rural Finance  
-B2B expense/income management platform with dynamic charts and approval workflows  
-> `Spring Boot`, `MyBatis`, `Jenkins`, `React`
+**Tech**: Python, GPT-4o, Flask, Q-learning, Visualization
 
 ---
 
-## 📫 Let’s Connect
+### WeChat Real Estate Booking Mini Program  
+High-concurrency backend for property sales using Spring Cloud microservices. Implemented Redis locking, caching, async messaging with RabbitMQ, and rate-limited APIs.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/你的用户名) *(← 替换为你的链接)*
-- 💼 Resume/CV available upon request
-- 📍 Open to backend / AI / full-stack roles in the UK and EU
+**Tech**: Java, Spring Cloud, Redis, RabbitMQ, Docker, Vue, Tencent Gateway
 
 ---
 
-> “Build systems that think, scale, and serve real people.”
+### DingTalk Rural Finance SaaS Platform  
+Enterprise B2B system for income and expense tracking with dynamic dashboards and approval workflows. Improved latency and feature flexibility.
 
-## Hi there 👋
+**Tech**: Spring Boot, MyBatis, Redis, React, Jenkins
 
-<!--
-**wltang-dev/wltang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn**: [www.linkedin.com/in/wenlong-tang-544011338/i]()
